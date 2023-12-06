@@ -2,8 +2,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwwww&layout=donut&theme=dark#gh-dark-mode-only))](https://github.com/Iwwww)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwwww&layout=donut&theme=default#gh-light-mode-only)](https://github.com/Iwwww)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwwww&layout=donut&theme=default)](https://github.com/Iwwww)
 
 <p align="left">  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
