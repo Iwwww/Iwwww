@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwwww&layout=donut&theme=default)](https://github.com/Iwwww)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,bash,c,arduino,react,express,androidstudio,nginx,linux,neovim,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,ts,bash,c,arduino,react,express,nginx,linux,neovim,bun,docker,django&perline=4)](https://skillicons.dev)
